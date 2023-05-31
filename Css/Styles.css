@@ -112,3 +112,26 @@ body{
 	color: #d6d5a8;
 	background-attachment:fixed;
 }
+
+.p{
+	display: inline-block;
+
+}
+
+button a{
+	list-style-type: none;
+	text-decoration: none;
+	background-color: #51557e;
+	color: #d6d5a8;
+	font-size: 69px;
+	text-align: center;
+
+}
+button a active{
+	color: #51557e;
+}
+button{
+	padding: 0px;
+	border: 0px;
+	display: inline-block;
+}
